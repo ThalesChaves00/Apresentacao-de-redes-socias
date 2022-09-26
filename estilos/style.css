@@ -7,7 +7,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 html, body{
 height: 100vh;
-width: 97vw;
+width: 100vw;
 
 }
 body{
@@ -44,6 +44,7 @@ section#Redes-Sociais img {
     border-radius:50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
     box-sizing: border-box;
+    
 }
 section#Redes-Sociais{
     text-align: right;
